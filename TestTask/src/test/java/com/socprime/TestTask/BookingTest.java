@@ -62,7 +62,6 @@ public class BookingTest extends BaseTest {
 		popupPage.submitButtonClick();
 		
 		waiter.waitForElement(popupPage.getNotValidAuthField());
-		System.out.println(popupPage.notValidAuthFieldText());
 		assertTrue(Constants.INVALIDAUTHTEXT.contains(popupPage.notValidAuthFieldText()));
 		
 	}
