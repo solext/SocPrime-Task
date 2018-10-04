@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12314" started-at="2018-10-04T16:45:43Z" finished-at="2018-10-04T16:45:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12314" started-at="2018-10-04T16:45:43Z" finished-at="2018-10-04T16:45:55Z">
+      <class name="com.socprime.TestTask.BookingTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.socprime.TestTask.BookingTest@1e88b3c]" name="setUp" is-config="true" duration-ms="4542" started-at="2018-10-04T16:45:43Z" finished-at="2018-10-04T16:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="notValidAuth()[pri:0, instance:com.socprime.TestTask.BookingTest@1e88b3c]" name="notValidAuth" duration-ms="6282" started-at="2018-10-04T16:45:48Z" finished-at="2018-10-04T16:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notValidAuth -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:com.socprime.TestTask.BookingTest@1e88b3c]" name="shutDown" is-config="true" duration-ms="1462" started-at="2018-10-04T16:45:54Z" finished-at="2018-10-04T16:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- com.socprime.TestTask.BookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

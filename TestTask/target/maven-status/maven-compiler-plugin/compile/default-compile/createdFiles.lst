@@ -1,0 +1,5 @@
+com\socprime\TestTask\Pages\MainBookingPage.class
+com\socprime\TestTask\Pages\AbstractPage.class
+com\socprime\TestTask\Utils\TestBaseUtils.class
+com\socprime\TestTask\Utils\TestWaiter.class
+com\socprime\TestTask\Pages\Constants\Constants.class
